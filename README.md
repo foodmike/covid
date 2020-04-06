@@ -15,6 +15,7 @@
 - NY Mag, 4/2/2020, [Trump Replaced White House Pandemic-Response Team With Jared Kushner](https://nymag.com/intelligencer/2020/04/trump-fired-pandemic-response-jared-kushner-coronavirus.html)
 - NY Mag, 4/3/2020 [Andrew Sullivan, How to Live With COVID-19](https://nymag.com/intelligencer/2020/04/andrew-sullivan-how-to-live-with-the-coronavirus.html)
 - TED, March 2020, [Bill Gates, How we must respond to the coronavirus pandemic](https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic)
+- FiveThirtyEight, Apr 4, [Coronavirus Case Counts Are Meaningless](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/)
 
 ## Podcasts
 
