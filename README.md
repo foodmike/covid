@@ -25,6 +25,7 @@
 ## Video
 
 - The Daily Show, [Dr. Fauci Answers Questions](https://youtu.be/8A3jiM2FNR8)
+- Chris Wallace, Apr 5th [Interview with Bill Gates](https://www.foxnews.com/politics/bill-gates-pandemic-is-nightmare-scenario-but-national-response-can-reduce-casualties)
 
 ## Pre 2020
 
@@ -32,3 +33,7 @@
 - The Atlantic, 12/20/2016 [How a Pandemic Might Play Out Under Trump](https://www.theatlantic.com/science/archive/2016/12/outbreaks-trump-disease-epidemic-ebola/511127/)
 - WaPo, 5/10/2018, [Top White House official responsible for leading the U.S. response in the event of a deadly pandemic has left the administration](https://www.washingtonpost.com/news/to-your-health/wp/2018/05/10/top-white-house-official-in-charge-of-pandemic-response-exits-abruptly/)
 - The Atlantic, July 2018 [Ed Yong, The Next Plague Is Coming. Is America Ready?](https://www.theatlantic.com/magazine/archive/2018/07/when-the-next-plague-hits/561734/)
+
+## Timeline
+
+- Apr 3: (CDC Recommends face masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html)
