@@ -36,5 +36,6 @@
 
 ## Timeline
 
-- 
+- Mar 11: [WHO declares pandemic](https://www.npr.org/sections/goatsandsoda/2020/03/11/814474930/coronavirus-covid-19-is-now-officially-a-pandemic-who-says)
 - Apr 3: [CDC Recommends face masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html)
+
