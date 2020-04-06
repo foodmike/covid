@@ -26,6 +26,8 @@
 
 - The Daily Show, [Dr. Fauci Answers Questions](https://youtu.be/8A3jiM2FNR8)
 - Chris Wallace, Apr 5th [Interview with Bill Gates](https://www.foxnews.com/politics/bill-gates-pandemic-is-nightmare-scenario-but-national-response-can-reduce-casualties)
+- CNN, Mar 27 [Bill Gates](https://www.cnn.com/videos/business/2020/03/27/bill-gates-coronavirus-town-hall-shutdown-april-peak-sot-vpx.cnn)
+- CBS This Morning, Apr 2 [Call for Nationwide Social Isolation](https://www.cbs.com/shows/cbs_this_morning/video/qv6G7AoZ7awwmvBx7vVVfKmGsuJMDMuh/extended-interview-bill-gates-on-coronavirus-pandemic/)
 
 ## Pre 2020
 
