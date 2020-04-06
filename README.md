@@ -36,4 +36,5 @@
 
 ## Timeline
 
-- Apr 3: (CDC Recommends face masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html)
+- 
+- Apr 3: [CDC Recommends face masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html)
