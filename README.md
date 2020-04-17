@@ -13,6 +13,7 @@
 
 - USA Today, 1/28/2020 [White House considers ban on flights to China amid coronavirus outbreak](https://www.usatoday.com/story/travel/news/2020/01/28/white-house-considers-ban-china-flights-amid-coronavirus-outbreak/4602839002/)
 - USA Today, 1/31/2020 [Delta, American, United to suspend all China mainland flights as coronavirus crisis grows](https://www.usatoday.com/story/travel/2020/01/31/coronavirus-china-flight-ban-delta-cuts-all-flights-white-house/4620989002/)
+- NY Times, 1/31/2020 [Trump Administration Restricts Entry Into U.S. From China](https://www.nytimes.com/2020/01/31/business/china-travel-coronavirus.html)
 - The Atlantic, 3/25/2020 [Ed Yong, How the Pandemic Will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/)
 - NY Mag, 4/2/2020, [Trump Replaced White House Pandemic-Response Team With Jared Kushner](https://nymag.com/intelligencer/2020/04/trump-fired-pandemic-response-jared-kushner-coronavirus.html)
 - NY Mag, 4/3/2020 [Andrew Sullivan, How to Live With COVID-19](https://nymag.com/intelligencer/2020/04/andrew-sullivan-how-to-live-with-the-coronavirus.html)
@@ -42,6 +43,8 @@
 
 ## Timeline
 
+- Jan 31: American Airlines, Delta Air Lines and United Airlines suspend air service between the United States and China for several months.
+- Jan 31: White House Restricts Entry Into U.S. From China (after airline annoucement).
 - Mar 11: [WHO declares pandemic](https://www.npr.org/sections/goatsandsoda/2020/03/11/814474930/coronavirus-covid-19-is-now-officially-a-pandemic-who-says)
 - Apr 3: [CDC Recommends face masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html)
 
