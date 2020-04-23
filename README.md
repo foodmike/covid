@@ -20,6 +20,7 @@
 - TED, March 2020, [Bill Gates, How we must respond to the coronavirus pandemic](https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic)
 - FiveThirtyEight, Apr 4, [Coronavirus Case Counts Are Meaningless](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/)
 - Foreign Affairs, Apr 7, [The Pandemic Will Accelerate History Rather Than Reshape It](https://www.foreignaffairs.com/articles/united-states/2020-04-07/pandemic-will-accelerate-history-rather-reshape-it)
+- The Atlantic, Apr 18, [Without More Tests, America Can’t Reopen](https://www.theatlantic.com/ideas/archive/2020/04/were-testing-the-wrong-people/610234/)
 
 ## Podcasts
 
