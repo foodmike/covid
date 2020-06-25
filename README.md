@@ -21,6 +21,10 @@
 - FiveThirtyEight, Apr 4, [Coronavirus Case Counts Are Meaningless](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/)
 - Foreign Affairs, Apr 7, [The Pandemic Will Accelerate History Rather Than Reshape It](https://www.foreignaffairs.com/articles/united-states/2020-04-07/pandemic-will-accelerate-history-rather-reshape-it)
 - The Atlantic, Apr 18, [Without More Tests, America Can’t Reopen](https://www.theatlantic.com/ideas/archive/2020/04/were-testing-the-wrong-people/610234/)
+- NY Times, Apr 28, [Let’s Get Real About Coronavirus Tests](https://www.nytimes.com/2020/04/28/opinion/coronavirus-testing.html?action=click&module=Opinion&pgtype=Homepage)
+- FiveThirtyEight, May 13, [Without A Vaccine, Herd Immunity Won’t Save Us](https://fivethirtyeight.com/features/without-a-vaccine-herd-immunity-wont-save-us/)
+- The Atlantic, June 25, [A Devastating New Stage of the Pandemic](https://www.theatlantic.com/science/archive/2020/06/second-coronavirus-surge-here/613522/)
+- The COVID Tracking Project, June 24, [It's Not Just Testing](https://covidtracking.com/blog/its-not-just-testing)
 
 ## Podcasts
 
